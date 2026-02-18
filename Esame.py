@@ -1,3 +1,8 @@
+
+
+# DAVIDE ATZENI 60/73/65376
+
+
 from z3 import *
 
 def CountingStrategy(nums, obiettivo):
